@@ -1,4 +1,4 @@
-CC-2_Exp_5 (Karamveer Singh_24BDA70257)
+
 
 class MyQueue { public: stack s1, s2;
 MyQueue() { }
