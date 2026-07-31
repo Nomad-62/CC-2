@@ -1,4 +1,4 @@
-CC-2_Exp_4 (Karamveer Singh_24BDA70257) 
+
 
 class Solution { public: int search(vector& nums, int target) { int left = 0, right = nums.size() - 1;
 while (left <= right) {
