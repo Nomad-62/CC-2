@@ -1,4 +1,4 @@
-CC-2_Exp_3 (Karamveer Singh _ 24BDA70257) 
+
 
 class Solution { public: int searchInsert(vector& nums, int target) { int left = 0, right = nums.size() - 1;
 while (left <= right) {
