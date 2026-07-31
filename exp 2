@@ -1,4 +1,4 @@
-CC-2_Exp_2 (Karamveer Singh_24BDA70257)
+
 
 class Solution { public: vector productExceptSelf(vector& nums) { int n = nums.size(); vector answer(n, 1);
 int prefix = 1;
